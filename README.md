@@ -1,16 +1,9 @@
 # quiz_app
 
-A new Flutter project.
+A Flutter quiz app illustrating the basic concepts of Flutter front-end.
 
-## Getting Started
+###iOS
 
-This project is a starting point for a Flutter application.
+![Simulator Screen Recording - iPhone 15 Pro Max - 2024-10-31 at 17 13 42](https://github.com/user-attachments/assets/4188a5a3-fbcc-4af1-a563-ea2f55514dd2)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+###Android
